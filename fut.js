@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        BallFut免费版
-// @version     1.0.0
+// @version     1.0.1
 // @author      JayQ
 // @description BallFut免费版
 // @match       https://www.ea.com/*/fifa/ultimate-team/web-app/*
